@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+
+# Dados e índices produzidos localmente
+data/httpx/
+data/index/
+data/chroma/
+data/metrics/
+
+# Configurações locais e segredos
+.env
+
+# Sistema operacional e IDE
+.DS_Store
+Thumbs.db
+.vscode/

@@ -1,0 +1,11 @@
+# Requer Python 3.11 ou superior para criar e executar o ambiente virtual.
+
+# Núcleo LangChain
+langchain-core==1.6.1  # Estruturas Document e interfaces fundamentais do LangChain validadas no projeto.
+langchain-text-splitters==1.1.2  # Splitters LangChain para cabeçalhos Markdown e chunks recursivos validados no projeto.
+
+# Modelos locais e banco vetorial
+ollama==0.6.2  # Cliente Python que conversa com o servidor Ollama local.
+langchain-ollama==1.1.0  # Integra os modelos instalados no Ollama ao LangChain.
+langchain-chroma==1.1.0  # Integra o banco vetorial ChromaDB ao LangChain.
+chromadb==1.5.9  # Armazena persistentemente embeddings e metadados dos chunks.
