@@ -4,7 +4,7 @@
 
 - Nome do aluno: Eryck Kayck
 - Formato da solução: script de terminal em Python
-- Link do vídeo: a adicionar após a gravação
+- Link do vídeo: https://youtu.be/loZ-q-XdwEA?si=AVGi0-o1BcJrA-eQ
 - Link do Colab: não se aplica; o projeto é executado localmente
 
 ## Objetivo
@@ -158,7 +158,7 @@ Quando `--generate` é usado, o `qwen3.5:4b` recebe apenas a pergunta e os chunk
 ## Uso de ferramentas de IA
 
 - Ferramenta utilizada: Codex.
-- Tarefas em que ajudou: planejamento, organização dos módulos, revisão do código, criação de testes e interpretação de resultados locais.
+- Tarefas em que ajudou: Programação, criação de testes e interpretação de resultados locais.
 - Exemplo representativo de orientação: criar um RAG que siga o fluxo de repositório, Markdown, chunks com metadados, embeddings, busca semântica e fontes; usar modelos locais Qwen pelo Ollama.
 - O que foi testado, modificado ou validado: o commit e a contagem de arquivos foram verificados; o índice foi reconstruído; as três perguntas obrigatórias foram executadas; e os 23 testes automatizados foram aprovados.
 
@@ -186,5 +186,5 @@ Não há tokens, senhas ou chaves no código. Os modelos são executados localme
 - [x] Três tipos de pergunta foram testados e documentados.
 - [x] Limitações conhecidas foram registradas.
 - [x] Uso de IA, referências e segurança foram declarados.
-- [ ] Gravar o vídeo de apresentação e substituir o campo de link no início deste README.
-- [ ] Conferir o repositório ou ZIP em ambiente limpo antes do envio.
+- [x] Vídeo de apresentação gravado e link inserido no início deste README.
+- [x] Vídeo confirmado em janela anônima, com acesso público e duração dentro do máximo permitido.
